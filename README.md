@@ -1,5 +1,3 @@
-# Snake Game JS
-
 Ein klassisches Snake-Spiel im Browser
 
 ## Features
@@ -17,7 +15,7 @@ Ein klassisches Snake-Spiel im Browser
 
 [Hier spielen](https://l1chxd.github.io/snake-game-js/)
 
-## Tech Stack
+## Stack
 
 - HTML
 - CSS
